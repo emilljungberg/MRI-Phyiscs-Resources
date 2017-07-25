@@ -3,6 +3,7 @@ List of open source analysis software for MRI. More tools added continuously. Wo
 
 ## Simulation
 - [JEMRIS](http://www.jemris.org)
+- [MRiLAB](http://mrilab.sourceforge.net)
 - Simple Bloch Equation Simulator from Stanford [Bloch Equations](http://mrsrl.stanford.edu/~brian/bloch/)
 
 ## Registration and Segmentation
@@ -10,6 +11,7 @@ List of open source analysis software for MRI. More tools added continuously. Wo
   - License: ...
 - [FMRIB Software Library (FSL)](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/)
   - License: ...
+- [FreeSurfer](http://freesurfer.net)
 
 ## Quantitative MRI
 - [QUIT](https://github.com/spinicist/QUIT)
