@@ -6,12 +6,17 @@ List of open source analysis software for MRI. More tools added continuously. Wo
 - [MRiLAB](http://mrilab.sourceforge.net)
 - Simple Bloch Equation Simulator from Stanford [Bloch Equations](http://mrsrl.stanford.edu/~brian/bloch/)
 
-## Registration and Segmentation
+## Registration, Analysis & Segmentation
 - [ANTs](http://stnava.github.io/ANTs/) :octocat:
   - License: ...
 - [FMRIB Software Library (FSL)](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/)
   - License: ...
 - [FreeSurfer](http://freesurfer.net)
+
+## Image viewers
+- [JIM by Xinapse](http://www.xinapse.com/j-im-7-software/) 
+- [FSLeyes](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FSLeyes)
+- [ITKsnap](http://www.itksnap.org/pmwiki/pmwiki.php)
 
 ## Quantitative MRI
 - [QUIT](https://github.com/spinicist/QUIT)
@@ -19,4 +24,7 @@ List of open source analysis software for MRI. More tools added continuously. Wo
 ## Diffusion
 - [CAMINO](http://camino.cs.ucl.ac.uk)
 
-## Other
+## Reconstruction
+- [BART - Berkeley Advanced Reconstruction Toolbox](https://mrirecon.github.io/bart/)
+- [Gadgetron](http://gadgetron.github.io/)
+- [ISMRM Raw Data format](http://ismrmrd.github.io/)
