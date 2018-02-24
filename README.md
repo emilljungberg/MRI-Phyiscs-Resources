@@ -8,9 +8,7 @@ List of open source analysis software for MRI. More tools added continuously. Wo
 
 ## Registration, Analysis & Segmentation
 - [ANTs](http://stnava.github.io/ANTs/) :octocat:
-  - License: ...
 - [FMRIB Software Library (FSL)](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/)
-  - License: ...
 - [FreeSurfer](http://freesurfer.net)
 
 ## Image viewers
@@ -28,3 +26,12 @@ List of open source analysis software for MRI. More tools added continuously. Wo
 - [BART - Berkeley Advanced Reconstruction Toolbox](https://mrirecon.github.io/bart/)
 - [Gadgetron](http://gadgetron.github.io/)
 - [ISMRM Raw Data format](http://ismrmrd.github.io/)
+
+
+# Teaching Resources
+
+## MRI Physics
+- [MRI-Q](http://mri-q.com/index.html)
+
+## Image Analysis
+
